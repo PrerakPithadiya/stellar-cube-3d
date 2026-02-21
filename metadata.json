@@ -1,0 +1,5 @@
+{
+  "name": "Rubik's 3D",
+  "description": "A photorealistic, interactive 3D Rubik's Cube. Click and drag outside the cube to rotate the view. Click and drag on a face to rotate a layer.",
+  "requestFramePermissions": []
+}
